@@ -1,0 +1,10 @@
+# Tencent Cloud EdgeOne
+.env
+.edgeone/*
+.tef_dist/*
+
+# Next.js
+.next/
+out/
+node_modules/
+next-env.d.ts
